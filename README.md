@@ -1,4 +1,4 @@
-[Home](anarchy-artichokey.github.io) > S.S. Dreamboat
+[Home](https://anarchy-artichokey.github.io) > S.S. Dreamboat
 # Welcome
 ### Currently this site is under construction.
 Check out LuckyKaiX's [website](https://sites.google.com/view/luckykaix/home)  
